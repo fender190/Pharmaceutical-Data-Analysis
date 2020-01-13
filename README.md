@@ -22,10 +22,10 @@ Python on a Jupyter Notebook. Pandas library was used to convert data to a dataf
 
 ### Code Examples
 ![DF](Images/Data_Frame_Example.png)
-![Plot_Code](Images/Plot_Code_Example)
+![Plot_Code](Images/Plot_Code_Example.png)
 
 ### Final Visualizations with Trend analysis
-![1st](Images/1st_Trend)
-![2nd](Images/2nd_Trend)
-![3rd](Images/3rd_Trend)
-![4th](Images/4Th_Trend)
+![1st](Images/1st_Trend.png)
+![2nd](Images/2nd_Trend.png)
+![3rd](Images/3rd_Trend.png)
+![4th](Images/4Th_Trend.png)
