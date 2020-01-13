@@ -8,8 +8,6 @@ Python on a Jupyter Notebook. Pandas library was used to convert data to a dataf
 
 ## Instructions
 
-![Laboratory](Images/Laboratory.jpg)
-
 * Load the 2 CSV files (Mice_Drug data and Tumor_Volume data) into the Jupyter notebook. Display both files as tables.
 
 * Joined both tables with an outer join.
@@ -22,4 +20,4 @@ Python on a Jupyter Notebook. Pandas library was used to convert data to a dataf
 
 ## Screenshots of Final Notebook
 
-![DF](Images/Data_Frame Example.png)
+![DF](Images/Data_Frame_Example.png)
